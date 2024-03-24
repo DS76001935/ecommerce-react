@@ -1,0 +1,6 @@
+01,Shampoo,20,1000,This is a shampoo product,https://m.media-amazon.com/images/I/71dgpx4e0OL.jpg
+02,Boat Headphone,2000,500,This is a Boat Headphone product,https://www.boat-lifestyle.com/cdn/shop/products/e5881832-36f8-4c1c-a767-10f2c2a55a02_288x.png?v=1685708053
+03,Dabur Amla Oil,34,30,This is the oil,https://m.media-amazon.com/images/I/71FlO3G++cL._AC_UF1000,1000_QL80_.jpg
+04,Redbull Soft Drink,560,100,This is a healthy drink,https://www.shutterstock.com/image-photo/klangmalaysia-circa-may-2020-picture-260nw-1726155472.jpg
+05,Oreo Shake,250,400,This is a delicious drink,
+06, Americano Coffee, 230, 200, This is amazing coffee,
